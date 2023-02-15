@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chihyungchang" alt="chihyungchang" /></a> </p>
 
-- 🧑🏻‍💻 I’m currently development on [vue-charts-plus](https://github.com/ChihYungChang/vue-charts-plus)
-
 - 🌱 I’m currently learning **Vue3, D3.js, P5.js**
 
 <h3 align="left">Languages and Tools:</h3>
